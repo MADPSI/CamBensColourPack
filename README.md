@@ -13,34 +13,34 @@ This mod update was created with the permission of and will continue to be distr
 ## Addons
 The changes made to the mod allow for easier development of addons where time permits. Due to the limited space a Category can contain before becoming stuffed on smaller resolutions, this means that only a handful of addons can be active at any one time. Disabling an addon in the mod's Installer will prevent it from appearing in the Palette, but will not remove the parts thereby breaking creations made with them.
 
-Current Addons:
+### Current Addons:
 Keratinhorns (added v4.3.0)
 The simple Keratinhorn weapons, but with an enhanced model with increased morphability and a nudge handle.
 More to come
 
-Special Thanks
-Camßen (Camben).
+## Special Thanks
+### Camßen (Camben).
 Original mod creator. Giving their blessing to this update.
 
-Splitwirez (rob55rod).
+### Splitwirez (rob55rod).
 Additional resources and technical assistance.
 
-Rebecca "DarkEdgeTV".
+### Rebecca "DarkEdgeTV".
 Bug testing, showcasing.
 
-Sneaky Zucchini (Paranoid Modder).
+### Sneaky Zucchini (Paranoid Modder).
 Bug testing and extensive backwards-compatibility testing, showcasing.
 
 
 ## Change Log
-# Version R 4.3.5
+### Version R 4.3.5
 - Made all parts in the pack readily available from the start of Creature Stage, due to not being able to unlock them conventionally.
 - Fixed a bug with certain UI layouts available in Dark Injection.
-# Version R 4.3.0
+### Version R 4.3.0
 - Added Keratinhorn component with all existing colours including new specialised parts, see below.
 - Retroactively added Base, Coat and Detail-matching parts to all existing parts as well as new Horns.
 - Added support for clothing and Dark Injection part stacking to Stacker component.
-# Version R 4.2.0
+### Version R 4.2.0
 - Added models for all existing colours and part types to allow colour previewing in Editor.
 - Added Advanced Colour versions of Feathers and Beards, including Greys.
 - Created toggleable Stacking component.
