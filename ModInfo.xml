@@ -1,4 +1,4 @@
-<mod displayName="Camßen's Colour Pack Version 4.0" unique="CBCP_V4_Psi" description="This mod is an upgrade to the classic Colour Pack, aka Knurlies, that adds advanced colouring for Feathers and Beards, overhauls the category system, and makes every part's colour previewable in Build Mode." installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20">
+<mod displayName="Camßen's Colour Pack Version" unique="CBCP_V4_Psi" description="This mod is an upgrade to the classic Colour Pack, aka Knurlies, that adds advanced colouring for Feathers and Beards, overhauls the category system, and makes every part's colour previewable in Build Mode." installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20">
 	<prerequisite game="GalacticAdventures">!CBCP_V4-3-5.package</prerequisite>
 	<prerequisite game="GalacticAdventures">!CBCP_V4_Part_Horn_core.package</prerequisite>
 	<component unique="CBCP_V4_Stacking" displayName="Stacking" description="Allows all parts to be stacked on to any other part, regardless of type." game="GalacticAdventures" defaultChecked="true">!CBCP_V4_stacking_comp.package</component>
